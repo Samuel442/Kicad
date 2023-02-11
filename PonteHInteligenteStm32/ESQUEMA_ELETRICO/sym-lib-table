@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name STM32L082KZT)(type Legacy)(uri ${KIPRJMOD}/STM32L082KZT.lib)(options "")(descr ""))
+  (lib (name VNH5019ATR_E)(type Legacy)(uri ${KIPRJMOD}/VNH5019ATR_E.lib)(options "")(descr ""))
+  (lib (name RS_485_ESA)(type Legacy)(uri ${KIPRJMOD}/RS_485_ESA.lib)(options "")(descr ""))
+  (lib (name REGUL_LM2596)(type Legacy)(uri ${KIPRJMOD}/REGUL_LM2596.lib)(options "")(descr ""))
+)

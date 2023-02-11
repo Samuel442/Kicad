@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name RS485)(type KiCad)(uri ${KIPRJMOD}/RS485.pretty)(options "")(descr ""))
+  (lib (name CHIP_ST)(type KiCad)(uri ${KIPRJMOD}/CHIP_ST.pretty)(options "")(descr ""))
+)
